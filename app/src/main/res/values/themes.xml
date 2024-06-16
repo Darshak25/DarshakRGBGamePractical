@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DarshakRGBPracticalTest" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme h
+        ere. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.DarshakRGBPracticalTest" parent="Base.Theme.DarshakRGBPracticalTest" />
+</resources>
